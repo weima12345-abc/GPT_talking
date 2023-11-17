@@ -1,7 +1,5 @@
 # WTF-GPT
 
-以WTF学院的开源课程为数据源
-
-使用python开发包gpt_index和langchain构建的聊天机器人
-
-在命令行中提供基于WTF学院课程的问答服务
+WTF为数据源
+基于python开发包构建的聊天机器助手
+在cmd中提供基于WTF的问答服务
